@@ -17,6 +17,9 @@ btn-transparent {
     width: 350px;
 }
 
+.tag {
+    letter-spacing: 1px;
+}
 .logo-small {
     width: 200px;
 }
