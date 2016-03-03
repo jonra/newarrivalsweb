@@ -13,6 +13,13 @@ btn-transparent {
     background-image: none;
 }
 
+.logo {
+    width: 250px;
+}
+
+.logo-small {
+    width: 200px;
+}
 
 .store {
     margin: 10px;
