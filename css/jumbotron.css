@@ -1,0 +1,151 @@
+/* Move down content because we have a fixed navbar that is 50px tall 
+
+https://coolors.co/app/86bbd8-258ea6-2f4858-f6ae2d-f26419
+*/
+body {
+  padding-top: 100px;
+  padding-bottom: 20px;
+  background-color: #ecf0f1;
+
+}
+
+btn-transparent {
+    background-image: none;
+}
+
+
+.store {
+    margin: 10px;
+}
+
+.just-phone {
+    max-width: 250px;
+    padding-bottom: 50px;
+}
+
+.jumbotron {
+    background-color: #AC80A0;
+    background-color: #89AAE6;
+    background-color: #F26419;
+    
+    background-color: #7EBDC3;
+    
+    background-color: #C2454C;
+    background-color: #34495E;
+    
+    color: white;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+.center{
+    text-align: center;
+}
+
+.text-white {
+    color: white;
+}
+
+.box-blue {
+    background-color: #1ABC9C;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.box-purple:after {
+    border-color: rgba(136, 183, 213, 0);
+	border-top-color: #88b7d5;
+	border-width: 30px;
+	margin-left: -30px;
+}
+
+.box-purple {
+    background-color: #3498DB;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+
+
+.box-basic {
+    background-color: #ecf0f1;
+    color: black;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.box-white {
+    background-color: #ffffff;
+    color: black;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+
+.box-silver {
+    background-color: #bdc3c7;
+    color: black;
+    padding-top: 50px;
+    padding-bottom: 0px;
+}
+
+
+.box-ipad {
+    background-color: #ecf0f1;
+    color: black;
+    padding-top: 50px;
+    padding-bottom: 0px;
+}
+
+.box-phone {
+    background-image: url("../img/placeit.jpg");
+    background-repeat: none;
+    background-size: cover;
+    color: black;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+
+
+.box-download {
+    background-image: url("../img/download.jpg");
+    background-repeat: none;
+    background-size: cover;
+    color: black;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    height: 400px;
+    text-align: center;
+}
+
+.box-phone h1 {
+    background: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    margin: 100px;
+    color: black;
+}
+
+.box-phone-sm {
+    background-image: url("../img/placeitsm.jpg");
+    background-repeat: none;
+    background-size: cover;
+    color: black;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+
+.box-phone-sm h1 {
+    background: rgba(255, 255, 255, 0.8);
+    padding: 10px;
+    color: black;
+}
+
+.navbar-white {
+    background-color: #ecf0f1;
+    color: black;
+    padding: 20px;
+}
