@@ -3,7 +3,7 @@
 https://coolors.co/app/86bbd8-258ea6-2f4858-f6ae2d-f26419
 */
 body {
-  padding-top: 100px;
+  padding-top: 80px;
   padding-bottom: 20px;
   background-color: #ecf0f1;
 
@@ -15,27 +15,33 @@ btn-transparent {
 
 .end1 {
     background-color: #3498DB;
+    padding: 5px;
 }
 
 .end2 {
     background-color: #3498DB;
+    padding: 5px;
 }
 
 .end3 {
     background-color: #3498DB;
+    padding: 5px;
 }
 
 .end4 {
     background-color: #3498DB;
+    padding: 5px;
 }
 
-.logo {
-    width: 350px;
-}
 
 .tag {
     letter-spacing: 1px;
 }
+
+.logo {
+    width: 340px;
+}
+
 .logo-small {
     width: 200px;
 }
