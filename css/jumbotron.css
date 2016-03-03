@@ -130,8 +130,8 @@ btn-transparent {
 }
 
 
-.box-download {
-    background-image: url("../img/download.jpg");
+.box-person {
+    background-image: url("../img/person.png");
     background-repeat: none;
     background-size: cover;
     color: black;
@@ -141,7 +141,15 @@ btn-transparent {
     text-align: center;
 }
 
-.box-phone h1 {
+.box-person h1 {
+    background: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    margin: 100px;
+    color: black;
+}
+
+
+.box-phone blockquote {
     background: rgba(255, 255, 255, 0.8);
     padding: 20px;
     margin: 100px;
@@ -168,4 +176,11 @@ btn-transparent {
     background-color: #ecf0f1;
     color: black;
     padding: 20px;
+}
+
+.footer {
+    background-color: #34495E;
+    padding: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
 }
