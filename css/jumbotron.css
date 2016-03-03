@@ -13,6 +13,22 @@ btn-transparent {
     background-image: none;
 }
 
+.end1 {
+    background-color: #3498DB;
+}
+
+.end2 {
+    background-color: #3498DB;
+}
+
+.end3 {
+    background-color: #3498DB;
+}
+
+.end4 {
+    background-color: #3498DB;
+}
+
 .logo {
     width: 350px;
 }
@@ -63,12 +79,6 @@ btn-transparent {
     padding-bottom: 50px;
 }
 
-.box-purple:after {
-    border-color: rgba(136, 183, 213, 0);
-	border-top-color: #88b7d5;
-	border-width: 30px;
-	margin-left: -30px;
-}
 
 .box-purple {
     background-color: #3498DB;
