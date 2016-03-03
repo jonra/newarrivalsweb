@@ -135,6 +135,29 @@ btn-transparent {
     text-align: center;
 }
 
+.box-phone h1 {
+    background: rgba(255, 255, 255, 0.8);
+    padding: 10px;
+    color: black;
+}
+
+
+.box-phone-sm {
+    background-image: url("../img/placeitsm.jpg");
+    background-repeat: none;
+    background-size: cover;
+    color: black;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+
+.box-phone-sm h1 {
+    background: rgba(255, 255, 255, 0.8);
+    padding: 10px;
+    color: black;
+}
+
 
 .box-person {
     background-image: url("../img/person.png");
@@ -162,21 +185,6 @@ btn-transparent {
     color: black;
 }
 
-.box-phone-sm {
-    background-image: url("../img/placeitsm.jpg");
-    background-repeat: none;
-    background-size: cover;
-    color: black;
-    padding-top: 50px;
-    padding-bottom: 50px;
-    text-align: center;
-}
-
-.box-phone-sm h1 {
-    background: rgba(255, 255, 255, 0.8);
-    padding: 10px;
-    color: black;
-}
 
 .navbar-white {
     background-color: #ecf0f1;
