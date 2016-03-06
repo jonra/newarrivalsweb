@@ -2,11 +2,11 @@
 
 https://coolors.co/app/86bbd8-258ea6-2f4858-f6ae2d-f26419
 */
-body {
-  padding-top: 80px;
-  padding-bottom: 20px;
-  background-color: #ecf0f1;
 
+body {
+    padding-top: 80px;
+    padding-bottom: 20px;
+    background-color: #ecf0f1;
 }
 
 btn-transparent {
@@ -33,7 +33,6 @@ btn-transparent {
     padding: 20px;
 }
 
-
 .tag {
     letter-spacing: 1px;
 }
@@ -59,18 +58,15 @@ btn-transparent {
     background-color: #AC80A0;
     background-color: #89AAE6;
     background-color: #F26419;
-    
     background-color: #7EBDC3;
-    
     background-color: #C2454C;
     background-color: #34495E;
-    
     color: white;
     padding-bottom: 0px;
     margin-bottom: 0px;
 }
 
-.center{
+.center {
     text-align: center;
 }
 
@@ -85,7 +81,6 @@ btn-transparent {
     padding-bottom: 50px;
 }
 
-
 .box-blue {
     background-color: #3498DB;
     color: white;
@@ -93,7 +88,14 @@ btn-transparent {
     padding-bottom: 50px;
 }
 
-
+.slant {
+    background-color: #3498DB;
+    transform: skewY(4deg);
+    -ms-transform: skewY(4deg);
+    -moz-transform: skewY(4deg);
+    -webkit-transform: skewY(4deg);
+    -o-transform: skewY(4deg);
+}
 
 .box-basic {
     background-color: #ecf0f1;
@@ -109,14 +111,12 @@ btn-transparent {
     padding-bottom: 50px;
 }
 
-
 .box-silver {
     background-color: #bdc3c7;
     color: black;
     padding-top: 50px;
     padding-bottom: 0px;
 }
-
 
 .box-ipad {
     background-color: #ecf0f1;
@@ -141,7 +141,6 @@ btn-transparent {
     color: black;
 }
 
-
 .box-phone-sm {
     background-image: url("../img/placeitsm.jpg");
     background-repeat: none;
@@ -157,8 +156,6 @@ btn-transparent {
     padding: 10px;
     color: black;
 }
-
-
 
 .box-person {
     background-image: url("../img/person.png");
@@ -178,6 +175,10 @@ btn-transparent {
     color: black;
 }
 
+.screenshot {
+    padding: 20px;
+    max-width: 200px;
+}
 
 .box-phone blockquote {
     background: rgba(255, 255, 255, 0.8);
@@ -185,7 +186,6 @@ btn-transparent {
     margin: 100px;
     color: black;
 }
-
 
 .navbar-white {
     background-color: #ecf0f1;
@@ -201,3 +201,7 @@ btn-transparent {
     color: white;
     text-align: center;
 }
+
+
+
+
